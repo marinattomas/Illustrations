@@ -14,12 +14,21 @@ Illustration created to represent the community of RLadies Belo Horizonte. The i
 
 Illustration created as tribute to the Astronaut Yvonne Cagle and delivered to her at her talk in She's Tech Conference 2018, where I was also a graphic facilitator.
 
-![Rladies](https://github.com/marinattomas/illustrations/blob/master/yvonne_poster2.png)
+![Desenho Yvonne Cagle](https://github.com/marinattomas/illustrations/blob/master/yvonne_poster2.png)
 
 
 
 ### She's Tech conference 2017
 
-Illustration created for She's Tech conference 2017.
+Illustrations created for She's Tech conference 2017.
 
 ![Starting up women in tech](https://github.com/marinattomas/illustrations/blob/master/starting%20up%20woman_P.png)
+
+![juntas somos mais](https://github.com/marinattomas/illustrations/blob/master/JUSTASSOMOSMAIs.png)
+
+### Malalai Crowdfunding Reward
+
+Malalai is a startup from Belo Horizonte focused on women security, I had the pleasure to contribute to the project creating one of the illustrations used as a reward for the Malalai crowdfunding. 
+
+![Malalai](https://github.com/marinattomas/illustrations/blob/master/frida3.png)
+
