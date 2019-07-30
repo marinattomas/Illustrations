@@ -10,9 +10,9 @@ Illustration created to represent the community of RLadies Belo Horizonte. The i
 ![Rladies](https://github.com/marinattomas/illustrations/blob/master/rladies.png)
 
 
-## Yvonne Cagle tribute print - She's Tech Conference 2018
+### Yvonne Cagle tribute print - She's Tech Conference 2018
 
-Illustration created as tribute to the Astronaut Yvonne Cagle and delivered to her after her talk in She's Tech Conference 2018.
+Illustration created as tribute to the Astronaut Yvonne Cagle and delivered to her at her talk in She's Tech Conference 2018, where I was also a graphic facilitator.
 
 ![Rladies](https://github.com/marinattomas/illustrations/blob/master/yvonne_poster2.png)
 
@@ -20,6 +20,6 @@ Illustration created as tribute to the Astronaut Yvonne Cagle and delivered to h
 
 ### She's Tech conference 2017
 
-Illustration created for She's Tech conference 2017 
+Illustration created for She's Tech conference 2017.
 
 ![Starting up women in tech](https://github.com/marinattomas/illustrations/blob/master/starting%20up%20woman_P.png)
