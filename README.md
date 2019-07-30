@@ -4,8 +4,7 @@ Repository with my illustrations related to data science and women in technology
 
 ### R ladies - Belo Horizonte 
 
-Illustration created to represent the community of RLadies Belo Horizonte. The illustration is my creation, although the Belo Horizonte logo used at the bottom of the image has been adapted from the city logo as a request from RLadies to represent the city.
-
+Illustration created to represent the community of RLadies Belo Horizonte. This is my creation and represents the universe of packages related to R and also includes a github symbol. It must be noticed that the Belo Horizonte logo used at the bottom of the image is not my creation, but only an adaptation from the Belo Horizonte city logo as a request from RLadies to represent the city. The We R ladies lettering is also used by the community separately from the original image. 
 
 ![Rladies](https://github.com/marinattomas/illustrations/blob/master/rladies.png)
 
