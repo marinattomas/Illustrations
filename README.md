@@ -33,4 +33,4 @@ Malalai is a startup from Belo Horizonte focused on women security, I had the pl
 
 ### USA Embassy - Run like a girl project
 
-![Corra como uma garota](https://github.com/marinattomas/Illustrations/blob/master/corra_como_uma_garota_frente-02.jpg)
+![Corra como uma garota](https://github.com/marinattomas/Illustrations/blob/master/corra_como_uma_garota-02.jpg)
