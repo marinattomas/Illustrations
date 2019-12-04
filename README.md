@@ -4,7 +4,7 @@ Repository with my illustrations related to data science and women in technology
 
 ### R ladies - Belo Horizonte 
 
-Illustration created to represent the community of RLadies Belo Horizonte. This is my creation and represents the universe of packages related to R and also includes a github symbol. It must be noticed that the Belo Horizonte logo used at the bottom of the image is not my creation, but only an adaptation from the Belo Horizonte city logo as a request from RLadies to represent the city. The We R ladies lettering is also used by the community separately from the original image. 
+Illustration created to represent the community of RLadies Belo Horizonte. The design represents the universe of packages related to R and also includes a github symbol. It must be noticed that the Belo Horizonte logo used at the bottom of the image is not my creation (although the rest of the drawing is), but only an adaptation from the Belo Horizonte city logo as a request from RLadies to represent the city. The We R ladies lettering is also my creation and is used by the community separately from the original image. 
 
 ![Rladies](https://github.com/marinattomas/illustrations/blob/master/rladies.png)
 
@@ -14,6 +14,8 @@ Illustration created to represent the community of RLadies Belo Horizonte. This 
 Illustration created as tribute to the Astronaut Yvonne Cagle and delivered to her at her talk in She's Tech Conference 2018, where I was also a graphic facilitator.
 
 ![Desenho Yvonne Cagle](https://github.com/marinattomas/illustrations/blob/master/yvonne_poster2.png)
+
+[Check my picture with Yvonne and the shirt on @fabricoderabiscos instagram](https://www.instagram.com/p/BquigV9Diet/)
 
 
 
