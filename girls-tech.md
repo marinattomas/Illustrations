@@ -1,6 +1,6 @@
 # Illustrations
 
-Repository with my illustrations related to data science and women in technology.
+Repository with my illustrations related to tech, data science & women.
 
 ### R ladies - Belo Horizonte 
 
